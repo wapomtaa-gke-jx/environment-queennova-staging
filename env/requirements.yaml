@@ -10,3 +10,6 @@ dependencies:
 - name: service-demo01
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
+- name: sandbox-golang-demo02
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
